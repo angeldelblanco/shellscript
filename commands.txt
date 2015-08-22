@@ -1,0 +1,12 @@
+############################
+# UTIL UNIX SHELL COMMANDS #
+############################
+
+
+# Change permisions to all subfolders 
+find . -type d -exec chmod 755 {} \;
+
+# Change permisions to all files (including all subfolders)
+find . -type f -exec chmod 755 {} \;
+
+
