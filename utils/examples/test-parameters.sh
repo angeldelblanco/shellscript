@@ -1,4 +1,4 @@
-#!/bin/ksh
+#!/bin/bash
 
 # extracted from http://osr600doc.sco.com/en/SHL_automate/_Passing_to_shell_script.html
 
